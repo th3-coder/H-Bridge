@@ -1,5 +1,4 @@
-"# H-Bridge" 
-Gerber and assembly files are in H-Bridge.zip
+"# High-Current H-Bridge"
 
 <img width="1088" height="716" alt="image" src="https://github.com/user-attachments/assets/e6dd10dd-5552-4381-bcb7-e7d4b8d081fb" />
 
